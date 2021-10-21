@@ -1,6 +1,34 @@
-.my-class {
-  margin: 12px;
-  border: 2px solid green;
-  padding: 30px;
+.box1 {
+  width: 100%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  border: solid black;
+  border-width: 1px;
   background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  width: 100%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box3 {
+  width: 100%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
